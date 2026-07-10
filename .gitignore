@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.venv/
+venv/
+.DS_Store
+*.egg-info/
